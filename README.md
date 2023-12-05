@@ -1,6 +1,11 @@
-# Stock_pred_dashborad
-A DashBoard that can be useful for any stock to visualize the data.
-And also for visualizing the MA model and LSTM mode Predictions.
+# Stocks prediction dashborad
+#### A DashBoard that can be useful for any stock to visualize the data.
+#### And also for visualizing the MA model and LSTM mode Predictions.
+
+$`pip install -r requirements.txt`
+
+$`streamlit run main.py`
+
 
 https://github.com/Kishor-khade/Stock_pred_dashborad/assets/85786257/af80316f-90bf-4793-bdc0-55e289bc7ec6
 
